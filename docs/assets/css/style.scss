@@ -4,7 +4,44 @@
 
 .test {
     background-color: purple;
+    width:625px;
+}
+.wrapper {
+    width: 1000px;
 }
 
 
+.socials {
+    text-align: center;
+    }  
+.socials li {
+    display:inline-block;
+    list-style-type:none;
+    -webkit-user-select:none;
+    -moz-user-select:none;
+    }
+.socials li a {
+    border-bottom: none;
+    }
+.socials li img {
+    width:32px;
+    margin-right: 20px;
+  }
 
+  .blog {
+      align-content: center;
+      margin: auto;
+      
+  }
+  .blog li {
+    display:inline-block;
+    list-style-type:none;
+    -webkit-user-select:none;
+    -moz-user-select:none;
+    border-radius: 25px;
+    width: 600px;
+    background-color: #c79712;
+    text-align: center;
+    margin: 2.5%;
+    margin-left:-5%;
+  }

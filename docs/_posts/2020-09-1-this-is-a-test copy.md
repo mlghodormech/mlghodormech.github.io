@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "testin"
+title:  "testin 2"
 excerpt_separator: <!--more-->
 tags: test fun stinky
 ---
