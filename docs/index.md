@@ -9,7 +9,6 @@ we are pals
 ---
 
 
-</section>
 <ul  class="blog">
   {% for post in site.posts %}
     <li>
