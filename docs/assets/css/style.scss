@@ -4,9 +4,29 @@
 
 .test {
     width:625px;
+    background-color: white;
+    border-radius: 25px;
+}
+.test h1 {
+    padding: 20px;
 }
 .wrapper {
     width: 1000px;
+    background-color: white;
+}
+
+body {
+    background-image: url("../img/bg.jpg")
+}
+
+footer{
+    background-color: white;
+}
+
+
+footer.p {
+    color: white;
+    
 }
 
 
@@ -39,7 +59,6 @@
     -moz-user-select:none;
     border-radius: 25px;
     width: 600px;
-    background-color: #c79712;
     text-align: center;
     margin: 2.5%;
     margin-left:-5%;
