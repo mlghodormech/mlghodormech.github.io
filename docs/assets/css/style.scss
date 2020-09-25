@@ -4,29 +4,31 @@
 
 .test {
     width:625px;
-    background-color: white;
+    background-color: #a1b5a6;
     border-radius: 25px;
+    padding:10px;
 }
 .test h1 {
     padding: 20px;
 }
-.wrapper {
-    width: 1000px;
-    background-color: white;
+
+.profile {
+    background-color: #a1b5a6;
+    border-radius: 25px;
+    position: fixed;
+    padding:10px;
+    left: 15%;
+    color: black;
 }
 
 body {
-    background-image: url("../img/bg.jpg")
-}
-
-footer{
-    background-color: white;
+    background-image: url("../img/bg.jpg");
 }
 
 
 footer.p {
     color: white;
-    
+    background-color: white;
 }
 
 
