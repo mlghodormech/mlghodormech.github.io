@@ -7,7 +7,7 @@ tags: test fun stinky
 
 
 Excerpt with multiple paragraphs
-
-Here's another paragraph in the excerpt.
 <!--more-->
+Here's another paragraph in the excerpt.
+
 Out-of-excerpt

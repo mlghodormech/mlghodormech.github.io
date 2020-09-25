@@ -5,6 +5,8 @@ layout: default
 
 # Hi, I'm Cal! 
 we are pals 
+<br>
+![Profile Pic](assets/img/prof.jpg)
 
 ---
 

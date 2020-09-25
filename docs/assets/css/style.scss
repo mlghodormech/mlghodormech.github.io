@@ -11,13 +11,16 @@
 .test h1 {
     padding: 20px;
 }
+.test img{
+    width: 25%;
+    right: 10%;
+}
 
 .profile {
     background-color: #a1b5a6;
     border-radius: 25px;
-    position: fixed;
     padding:10px;
-    left: 15%;
+    left: 5%;
     color: black;
 }
 
@@ -26,9 +29,14 @@ body {
 }
 
 
-footer.p {
-    color: white;
-    background-color: white;
+footer {
+    color: rgb(12, 118, 145);
+    background-color: #a1b5a6;
+    border-radius:15px;
+    padding:5px;
+    opacity: 95%;
+    left:50%;
+    right:50%;
 }
 
 
@@ -59,9 +67,9 @@ footer.p {
     list-style-type:none;
     -webkit-user-select:none;
     -moz-user-select:none;
-    border-radius: 25px;
-    width: 600px;
-    text-align: center;
+    border-radius: 5px;
+    width: 500px;
+    text-align: left;
     margin: 2.5%;
     margin-left:-5%;
   }
